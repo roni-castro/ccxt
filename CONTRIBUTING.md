@@ -1,4 +1,4 @@
-# Contributing To The CCXT Library 
+# Contributing To The CCXT Library  
 
 ```diff
 - This file is a work in progress, guidelines for contributing are being developed right now!
